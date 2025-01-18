@@ -13,16 +13,18 @@ h1{
     font-style:italic; 
 } 
 
-
 .para {
     font-size:25px;
-    color:blue;
+    color:gray;
 }
 
 body{
         margin:0 auto;
         padding:0 20px 20px 20px;
+        width: 600px;
+        border: 4px solid black;
+
 }
 html{
-    background-color: #FF0000;
+    background-color: gray;
 }
