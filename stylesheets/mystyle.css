@@ -7,6 +7,10 @@ p, li{
 h1{
     font-size:65px;
     text-align: center;
+    margin:0;
+    padding: 20px 0;
+    color:darkgreen;
+    text-shadow: 3px 2px 1px black;
 }
 
 #quote {
