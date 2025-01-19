@@ -20,6 +20,8 @@ h1{
 .para {
     font-size:25px;
     color:darkolivegreen;
+    font-family: Arial, Helvetica, Times;
+    font-weight: bold;
 }
 
 body{
@@ -31,4 +33,10 @@ body{
 }
 html{
     background-color: gray;
+    font-family: "Open Sans",sans-serif;
+    font-size: 13px;
+}
+img{ /* centers image*/
+    display: block;
+    margin: 0 auto; 
 }
